@@ -1,9 +1,5 @@
 {
-   "1":{
-      "question":"How are u",
-      "lat":51.5085
-   },
-   "2":[
+   "1":[
       {
          "id":800,
          "main":"Clear",
@@ -11,11 +7,7 @@
          "icon":"01n"
       }
    ],
-    "3":{
-      "question":-0.1257,
-      "lat":51.5085
-   },
-   "4":[
+   "2":[
       {
          "id":800,
          "main":"Clear",
@@ -23,11 +15,7 @@
          "icon":"01n"
       }
    ],
-    "5":{
-      "lon":-0.1257,
-      "lat":51.5085
-   },
-   "6":[
+   "3":[
       {
          "id":800,
          "main":"Clear",
@@ -35,17 +23,45 @@
          "icon":"01n"
       }
    ],
-    "7":{
-      "lon":-0.1257,
-      "question":51.5085
-   },
-   "8":[
+   "4":[
       {
          "id":800,
          "main":"Clear",
          "question":"You are awesone",
          "icon":"01n"
       }
-   ]
+   ],
+   "5":[
+    {
+       "id":800,
+       "main":"Clear",
+       "question":"Hello from firebase Json in realtime",
+       "icon":"01n"
+    }
+ ],
+ "6":[
+    {
+       "id":800,
+       "main":"Clear",
+       "question":"Hello Stranger",
+       "icon":"01n"
+    }
+ ],
+ "7":[
+    {
+       "id":800,
+       "main":"Clear",
+       "question":"Are u feeling good today ?",
+       "icon":"01n"
+    }
+ ],
+ "8":[
+    {
+       "id":800,
+       "main":"Clear",
+       "question":"You are awesone",
+       "icon":"01n"
+    }
+ ]
 }
  
