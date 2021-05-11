@@ -3,7 +3,7 @@
       {
          "id":800,
          "main":"Clear",
-         "question":"Hello from firebase Json in realtime",
+         "question":"Hello in realtime",
          "icon":"01n"
       }
    ],
@@ -11,7 +11,7 @@
       {
          "id":800,
          "main":"Clear",
-         "question":"Hello Stranger",
+         "question":"Hello ",
          "icon":"01n"
       }
    ],
@@ -19,7 +19,7 @@
       {
          "id":800,
          "main":"Clear",
-         "question":"Are u feeling good today ?",
+         "question":"Are you ok?",
          "icon":"01n"
       }
    ],
@@ -35,7 +35,7 @@
     {
        "id":800,
        "main":"Clear",
-       "question":"this is realtime",
+       "question":"This is realtime",
        "icon":"01n"
     }
  ],
@@ -59,7 +59,7 @@
     {
        "id":800,
        "main":"Clear",
-       "question":"TEXT FROM WEB 7",
+       "question":"TEXT FROM WEB",
        "icon":"01n"
     }
  ]
